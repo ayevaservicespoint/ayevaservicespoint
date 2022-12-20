@@ -1,17 +1,28 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Header></Header>
+    <Services></Services>
+    <Orari></Orari>
+    <Contatti></Contatti>
+    <Footer></Footer>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Header from './components/Header.vue';
+import Footer from './components/Footer.vue';
+import Services from './components/Services.vue';
+import Contatti from './components/Contatti.vue';
+import Orari from './components/Orari.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Header,
+    Footer,
+    Services,
+    Contatti,
+    Orari
   }
 }
 </script>
@@ -23,6 +34,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
