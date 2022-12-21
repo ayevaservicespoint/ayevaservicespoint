@@ -1,5 +1,5 @@
 <template>
-    <div class="ml-5 mr-5 mb-5">
+    <div class="ml-3 mr-3 mb-5">
         <div class="row mb-3">
             <div class="col-lg-12" align="center" data-spy="scroll" data-target="#main_navbar" data-offset="0">
                 <h1 id="orari" class="display-5 fw-bold" style="position: relative;"><i>I NOSTRI ORARI</i></h1>
