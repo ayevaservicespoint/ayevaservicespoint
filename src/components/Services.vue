@@ -87,7 +87,6 @@
                 <div class="col-lg-8" align="left">
                     <ul>
                         <li><p class="lead">Richiesta visto in Italia per turismo</p></li>
-                        <li><p class="lead">Richiesta di visto in Italia per turismo</p></li>
                         <li><p class="lead">Richiesta/rinnovo/conversione di PDS attraverso compilazione kit postale</p></li>
                         <li><p class="lead">Prenotazione test di lingua italiana</p></li>
                         <li><p class="lead">Richiesta visto per reingresso</p></li>
@@ -95,7 +94,6 @@
                         <li><p class="lead">Ricongiungimento familiare</p></li>
                         <li><p class="lead">Iscrizione anagrafica cittadini neo comunitari</p></li>
                         <li><p class="lead">Cittadinanza italiana per residenza, matrimonio, iure sanguini</p></li>
-                        <li><p class="lead">Richiesta di visto in Italia per turismo</p></li>
                         <li><p class="lead">Ingresso in Italia per lavoro subordinato ex art. 27 (fuori da quote di detto flussi)</p></li>
                         <li><p class="lead">Ingresso in Italia per lavoro autonomo</p></li>
                         <li><p class="lead">Riconoscimento titolo di studio</p></li>

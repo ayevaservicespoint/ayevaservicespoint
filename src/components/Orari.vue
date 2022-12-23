@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-lg-2"></div>
             <div class="col-lg-8">
-                <table class="table table-striped table table-bordered" align="center">
+                <table class="table table table-bordered" align="center">
                     <thead class="thead">
                         <th>Giorno</th>
                         <th>Mattina</th>

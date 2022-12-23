@@ -7,7 +7,7 @@
         </div>
         <div class="row">
             <div class="col-lg-6">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.529487767321!2d11.755417097345305!3d45.76057788727098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4778da714c30d76f%3A0xeb618d98f10d6720!2sVia%20C%C3%A0%20Baroncello%2C%2024%2C%2036022%20San%20Giuseppe%20VI!5e0!3m2!1sit!2sit!4v1670684644472!5m2!1sit!2sit" width="100%" height="600px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.529487767321!2d11.755417097345305!3d45.76057788727098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4778da714c30d76f%3A0xeb618d98f10d6720!2sVia%20C%C3%A0%20Baroncello%2C%2024%2C%2036022%20San%20Giuseppe%20VI!5e0!3m2!1sit!2sit!4v1670684644472!5m2!1sit!2sit" width="100%" height="678px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>    
             <div class="col-lg-6">
                 <div class="card shadow p-3" style="border-left: 10px solid #0066FF;">
