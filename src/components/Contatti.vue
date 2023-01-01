@@ -2,7 +2,7 @@
     <div class="ml-3 mr-3">
         <div class="row mb-3">
             <div class="col-lg-12" align="center" data-spy="scroll" data-target="#main_navbar" data-offset="0">
-                <h1 id="contatti" class="display-5 fw-bold" style="position: relative;"><i>CONTATTACI</i></h1>
+                <h1 id="contatti" class="display-5 fw-bold" style="position: relative;"><i>{{ $t('contatti.contattaci') }}</i></h1>
             </div>
         </div>
         <div class="row">
@@ -12,20 +12,20 @@
             <div class="col-lg-6">
                 <div class="card shadow p-3" style="border-left: 10px solid #0066FF;">
                     <div class="ml-3 mt-3 mb-3 mr-2" align="left">
-                        <h3 class="display-5 fw-bold" align="left">Indirizzo</h3>
-                        <p class="lead">Via Ca' Baroncello 24, 36022, San Giuseppe di Cassola, VI</p>
-                        <h3 class="display-5 fw-bold" align="left">Partita IVA</h3>
-                        <p class="lead">04403250246</p>
-                        <h3 class="display-5 fw-bold" align="left">REA VI</h3>
-                        <p class="lead">4014413</p>
-                        <h3 class="display-5 fw-bold" align="left">Email</h3>
-                        <p class="lead"><a href="mailto:ayevaservicepoint@gmail.com">ayevaservicepoint@gmail.com</a></p>
-                        <h3 class="display-5 fw-bold" align="left">PEC</h3>
-                        <p class="lead"><a href="mailto:ayevaservicepoint@pec.it">ayevaservicepoint@pec.it</a></p>
-                        <h3 class="display-5 fw-bold" align="left">Telefono</h3>
-                        <p class="lead">(+39) 0424 016422</p>
-                        <h3 class="display-5 fw-bold" align="left">Cellulare</h3>
-                        <p class="lead">(+39) 327 585 1271</p>
+                        <h3 class="display-5 fw-bold" align="left">{{ $t('contatti.indirizzo') }}</h3>
+                        <p class="lead">{{ $t('contatti.viaCaBaroncello') }}</p>
+                        <h3 class="display-5 fw-bold" align="left">{{ $t('contatti.partitaIva') }}</h3>
+                        <p class="lead">{{ $t('contatti.435') }}</p>
+                        <h3 class="display-5 fw-bold" align="left">{{ $t('contatti.reaVi') }}</h3>
+                        <p class="lead">{{ $t('contatti.3002') }}</p>
+                        <h3 class="display-5 fw-bold" align="left">{{ $t('contatti.email') }}</h3>
+                        <p class="lead"><a href="mailto:ayevaservicepoint@gmail.com">{{ $t('contatti.ayevaservicepointgmailcom') }}</a></p>
+                        <h3 class="display-5 fw-bold" align="left">{{ $t('contatti.pec') }}</h3>
+                        <p class="lead"><a href="mailto:ayevaservicepoint@pec.it">{{ $t('contatti.ayevaservicepointpecit') }}</a></p>
+                        <h3 class="display-5 fw-bold" align="left">{{ $t('contatti.telefono') }}</h3>
+                        <p class="lead">{{ $t('contatti.5945') }}</p>
+                        <h3 class="display-5 fw-bold" align="left">{{ $t('contatti.cellulare') }}</h3>
+                        <p class="lead">{{ $t('contatti.6150') }}</p>
                     </div>
                 </div>
             </div>
