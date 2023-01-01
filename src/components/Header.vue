@@ -8,8 +8,8 @@
                         <i><strong>&nbsp;{{ $t('header.nbspayevaServicesPoint') }}</strong></i>
                     </b-navbar-brand>
                 </div>
+                <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
                 <div class="col-lg-4" id="nav-items">
-                    <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
                     <b-collapse id="nav-collapse" is-nav>
                         <b-navbar-nav>
                             <b-nav-item href="#servizi">{{ $t('header.iNostriServizi') }}</b-nav-item>
@@ -21,7 +21,7 @@
                 <div class="col-lg-3">
                     <b-collapse id="nav-collapse" is-nav>
                         <b-navbar-nav class="ml-auto">
-                            <b-nav-item-dropdown no-caret>
+                            <b-nav-item-dropdown right no-caret>
                                 <template #button-content>
                                     <p>
                                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-translate" viewBox="0 0 16 16">
